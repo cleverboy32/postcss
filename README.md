@@ -76,6 +76,7 @@ If you have any new ideas, [PostCSS plugin development] is really easy.
 * [`postcss-sorting`] sorts the content of rules and at-rules.
 * [`postcss-utilities`] includes the most commonly used shortcuts and helpers.
 * [`short`] adds and extends numerous shorthand properties.
+* [`postcss-ui-theme`] mature ui package manager proposal。 css like sass and let you change theme and compiled anywhere.
 
 ### Images and Fonts
 
@@ -151,7 +152,7 @@ you can write a parser and/or stringifier to extend PostCSS.
 * [`postcss-js`] allows you to write styles in JS or transform
   React Inline Styles, Radium or JSS.
 * [`postcss-safe-parser`] finds and fixes CSS syntax errors.
-* [`midas`] converts a CSS string to highlighted HTML.
+* [`midas`] converts a CSS string to highlighted HTML
 
 [`postcss-less-engine`]: https://github.com/Crunch/postcss-less
 [`postcss-safe-parser`]: https://github.com/postcss/postcss-safe-parser
